@@ -1,0 +1,18 @@
+
+{
+  /*configuracao do protheus do meu computador */
+   "advpl.environments":[{
+      "name": "LocalHost"
+      ,"smartClientPath": "D:\\_protheus\\bin\\smartclient"
+      ,"environment": "valter"
+      ,"includeList": "C:\\TOTVS\\WorkspaceCF\\protheus\\include\\"
+      ,"server": "localhost"
+      ,"port": "1234"
+      ,"user": "admin"
+      ,"passwordCipher": "ZHc3RmdoYzNGUERVQldPcTJwU0ZkUWhGSnhBVXp2YlJMT0FjdUFMR01STWdlNnpTSlp3aExIcVdIL2dVV29ybGltSEQ2VHN6UjJCL3pCQ3d5S29TcGpUM2NibDMybWNWM0VKNHBvcWtwZURnREVSZE92RXo4UnMwMUhhdTczckM="
+      ,"debug_multiThread":true
+    }
+  ],
+  "advpl.selectedEnvironment": "LocalHost",
+  "advpl.workspaceFolders": "c:\\TOTVS\\workspaceVSC;"
+}
